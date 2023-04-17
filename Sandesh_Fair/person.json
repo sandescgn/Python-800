@@ -1,0 +1,10 @@
+{
+  "name": "ram",
+  "age": 22,
+  "address": "ktm",
+  "skills": [
+    "python",
+    "django",
+    "machine learning"
+  ]
+}

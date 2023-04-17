@@ -1,0 +1,2 @@
+hello world.wlcome to python course.
+we are reading file handling.

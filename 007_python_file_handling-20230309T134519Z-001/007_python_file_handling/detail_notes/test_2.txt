@@ -1,0 +1,4 @@
+This is file
+my
+first file
+This text has to be appended at the end
